@@ -20,6 +20,13 @@ npm install
 
 Open in VS Code and press **F5** to run the extension.
 
+![alt text](screenshots/image1.png)
+
+A new window opens called:
+```
+Extension Development Host
+```
+
 Then open the command palette:
 
 ```
@@ -31,8 +38,11 @@ Run:
 ```
 Open EdiTDor
 ```
+![alt text](screenshots/image2.png)
 
 This opens the EdiTDor interface inside a VS Code WebView.
+
+![alt text](screenshots/vscode-extension.png)
 
 ## Motivation
 
